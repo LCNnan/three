@@ -10,3 +10,5 @@ git has a mutable index called stage.
 
 git tracks changes.
 
+git trancks changes of files.
+
